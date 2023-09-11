@@ -1,0 +1,20 @@
+# vnd.github.io
+Visual Novel Development Club Website
+
+This is a website about a video game that was developed in a school club I joined in 11th grade!
+The website was made for an assignment in my web design and scripting class.
+
+The video game is a visual novel dating simulator about supernatural characters in a magic school.
+
+This site contains the following:
+- About the club
+- Characters
+- Character Information 
+
+This website was made by me, Noah! @nonoro96
+
+Please note that some content for the character information pages are not complete.
+Unfortunately, the club was not able to finish all the information before the end of the year.
+The club soon dissolved after the end of the school year.
+
+Hope you enjoy checking the website!
