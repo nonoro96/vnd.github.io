@@ -50,10 +50,12 @@ header {
     padding: 0px 10px;
 }
 .scroll {
-    background-color: rgba(0, 0, 0, 0.4);
+    width: 75%;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.4); 
     margin: auto;
-    max-height: 100vh; 
-    overflow-y: auto; 
+    height: 705px;
+    overflow: auto;
     scroll-snap-type: y mandatory;
     scroll-padding-top: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
