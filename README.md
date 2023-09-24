@@ -18,4 +18,3 @@ NOTES:
 Some content for the character information pages are not complete.
 Unfortunately, the club was not able to finish all the information for the characters.
 The club soon dissolved after the end of the school year.
-This website is also currently only suited for PCs/laptops. The dimensions are not right on mobile.
